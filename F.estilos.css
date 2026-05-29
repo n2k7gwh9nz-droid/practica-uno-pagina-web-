@@ -1,0 +1,42 @@
+html{
+    im
+
+}
+
+body{
+
+    background-color:aqua
+    background-position:center
+
+    
+
+}   
+
+img{
+    background-position:center
+}
+
+.contenedor{
+
+    background-color: rgba(245, 1, 115, 0.877);
+    padding: 10px;
+    margin: 1px;
+    border: 3px solid rgb(12, 230, 238);
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.box{
+    background-color: rgb(0, 17, 255);
+    font-size: 30px;
+    padding: 1px;
+    border: 1px solid rgb(46, 6, 110);
+    margin: 5px;
+    text-align: center;
+    text-transform: capitalize;
+     text-shadow: 0 0 1px  rgb(238, 162, 11),0 0 20px rgb(236, 14, 118);
+     text-decoration: underline rgb(26, 245, 7) dotted;
+     
+        /*este es un mensaje*/
+}
